@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #26",
+  "symbol": "GE",
+  "description": "Seeing a spiral almost in profile, as Hubble has here, can provide a vivid sense of its three dimensional shape. Through most of their expanse, spiral galaxies are shaped like a thin pancake.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 26,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A Spiral in Profile"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 3717"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "60 million light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

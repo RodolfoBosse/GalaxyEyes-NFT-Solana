@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #43",
+  "symbol": "GE",
+  "description": "This composite image shows the distribution of dark matter, galaxies, and hot gas in the core of the merging galaxy cluster Abell 520, formed from a violent collision of massive galaxy clusters.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 43,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Galaxy Custer Abell 520"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Abell 520"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Galaxy Cluster"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Orion"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "2 billion light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

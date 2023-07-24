@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #79",
+  "symbol": "GE",
+  "description": "This image shows a pair of interacting galaxies that are destined to merge.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 79,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A Cosmic Exclamation Point"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "VV340"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Active Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Boötes"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "285 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

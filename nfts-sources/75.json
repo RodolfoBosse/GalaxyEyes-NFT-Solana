@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #75",
+  "symbol": "GE",
+  "description": "These two galaxies look as if they are colliding, but they are actually separated by tens of millions of light-years, or about ten times the distance between our Milky Way and the neighboring Andromeda galaxy.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 75,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Chance Alignment Between Galaxies Mimics a Cosmic Collision"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 3314, NGC 3314A, NGC 3314B"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Aligned Galaxies"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "140 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #0",
+  "symbol": "GE",
+  "description": "Although it looks more like an entity seen through a microscope than a telescope, this rounded object, named NGC 2022, is certainly no alga or tiny, blobby jellyfish. Instead, it is a vast orb of gas in space, cast off by an ageing star.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Inky Abyss"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 2022"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Orion"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "8.210 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

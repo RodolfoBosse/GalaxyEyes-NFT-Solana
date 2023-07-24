@@ -1,0 +1,64 @@
+echo "[INFO] Setting Solana to use dev network"
+solana config set --url https://api.devnet.solana.com
+echo "[INFO] Generating new wallet | or uncomment the to import one"
+solana-keygen new --outfile .config/solana/devnet.json --force && solana address > ./logs/dev/new-wallet-log.txt
+# read answer
+# echo $answer > .config/solana/devnet.json
+echo "[INFO] Setting config to be the new wallet"
+solana config set -k .config/solana/devnet.json
+echo "[INFO] Sending airdrop"
+solana airdrop 1
+
+
+# echo "[INFO] Cleaning older cache folder for metaplex"
+rm .cache/devnet-temp
+echo "[INFO] Uploading all resources"
+ts-node C:/Users/indir/Desktop/metaplex/js/packages/cli/src/candy-machine-cli.ts upload nfts-sources --env devnet --keypair .config/solana/devnet.json
+echo "[INFO] Creating candy machine"
+ts-node C:/Users/indir/Desktop/metaplex/js/packages/cli/src/candy-machine-cli.ts create_candy_machine --env devnet --keypair .config/solana/devnet.json
+echo "[INFO] Setting minting start date (goLiveDate)"
+ts-node C:/Users/indir/Desktop/metaplex/js/packages/cli/src/candy-machine-cli.ts update_candy_machine -d "now" -p 0.618 --env devnet --keypair .config/solana/devnet.json
+
+
+treasury - 2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# echo "[INFO] Cleaning older cache folder for metaplex"
+# rm -rf ./.cache/mainnet-beta-temp
+echo "[INFO] Uploading all resources"
+ts-node C:/Users/indir/Desktop/metaplex/js/packages/cli/src/candy-machine-cli.ts upload nfts-sources --env mainnet-beta --keypair .config/solana/candyfactory-mainnet.json
+echo "[INFO] Creating candy machine"
+ts-node C:/Users/indir/Desktop/metaplex/js/packages/cli/src/candy-machine-cli.ts create_candy_machine --env mainnet-beta --keypair .config/solana/candyfactory-mainnet.json --price 0.618 > ./logs/main/candy-machine-log.txt
+echo "[INFO] Setting minting start date (goLiveDate)"
+ts-node C:/Users/indir/Desktop/metaplex/js/packages/cli/src/candy-machine-cli.ts update_candy_machine -d "25 Sep 2021 00:00:00 UTC" --env mainnet-beta --keypair .config/solana/candyfactory-mainnet.json > ./logs/main/candy-machine-start-date.txt
+
+echo "[INFO] Setting Solana to use mainnet network"
+solana config set --url https://solana-api.projectserum.com
+echo "[INFO] Importing wallet"
+echo "Type your wallet PK so the Solana CLI can connect to it"
+read answer
+echo $answer > .config/solana/candyfactory-mainnet.json
+echo "[INFO] Setting config to be the new wallet"
+solana config set -k .config/solana/candyfactory-mainnet.json
+solana address > ./logs/main/wallet-log.txt
+echo "[INFO] Getting Wallet Balance"
+solana balance
+
+
+
+abacaxi queijo salame varal camiseta cebola caneta roda 
+=====================================================================================
+pubkey: 2URAcFZdZAoAW2UfMbwscLggQ7JmkD71trzBurJMvj3p
+=====================================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+involve sponsor hedgehog degree vibrant select art shoot awesome pluck silent morning
+=====================================================================================
+
+config for a candy machine with publickey: 9c8kXVQ6B2MELG2kD8FNFo4KJ9j8LLcvC2heXgS7zzSS
+
+
+ts-node C:/Users/indir/Desktop/metaplex/js/packages/cli/src/candy-machine-cli.ts withdraw --env mainnet-beta --keypair .config/solana/candyfactory-mainnet.json
+
+"env":"devnet","cacheName":"temp","authority":"ZcEDdRmwVw25UmzzQYRrxcs1kdb481CDFHwMzQd9s3o",
+"candyMachineAddress":"BWZam685RsZWLQD1CThdhTULXCs19mrS8dHqYZE7cskd","startDate":1636157520}

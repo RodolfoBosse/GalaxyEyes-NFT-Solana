@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #86",
+  "symbol": "GE",
+  "description": "Located in the northern celestial hemisphere, Abell 1703 is composed of over one hundred different galaxies that act as a powerful cosmic telescope, or gravitational lens. The gravitational lens produced by the massive galaxy cluster in the foreground (the yellow mostly elliptical galaxies scattered across the image) bends the light rays in a way that can stretch the images and so amplify the brightness of the light rays from more distant galaxies.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 86,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Abell 1703"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Abell 1703"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Galaxy Cluster"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Canis Venatici"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "711 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

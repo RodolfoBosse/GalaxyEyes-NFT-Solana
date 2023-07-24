@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #11",
+  "symbol": "GE",
+  "description": "Composed of gas and dust, the pictured pillar resides in a tempestuous stellar nursery called the Carina Nebula, located 7500 light years away in the southern constellation of Carina.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 11,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "WFC3 Visible Image of the Carina Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 3372"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Carina"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "7.500 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

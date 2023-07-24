@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #31",
+  "symbol": "GE",
+  "description": "The Hubble view of the Carina Nebula shows star birth in a new level of detail. The fantasy like landscape of the nebula is sculpted by the action of outflowing winds and scorching ultraviolet radiation from the monster stars that inhabit this inferno.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 31,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Star Birth in the Extreme"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 3372"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Carina"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "7.500 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

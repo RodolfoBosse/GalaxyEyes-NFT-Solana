@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #42",
+  "symbol": "GE",
+  "description": "The galaxys hallmark is a brilliant white, bulbous core encircled by the thick dust lanes comprising the spiral structure of the galaxy. As seen from Earth, the galaxy is tilted nearly edge on. We view it from just six degrees north of its equatorial plane.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 42,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Majestic Sombrero Galaxy"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "M 104"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "30 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #55",
+  "symbol": "GE",
+  "description": "The spiral galaxy NGC 2008 sits centre stage, its ghostly spiral arms spreading out towards us.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 55,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Open Arms"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 2008"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Pictor"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "450 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #22",
+  "symbol": "GE",
+  "description": "A huge, billowing pair of gas and dust clouds are captured in this stunning image of the supermassive star Eta Carinae.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 22,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Doomed Star Eta Carinae"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "eta Car"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Variable Star"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Carina"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "10.000 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

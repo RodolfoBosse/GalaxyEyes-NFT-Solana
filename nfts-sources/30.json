@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #30",
+  "symbol": "GE",
+  "description": "This portrait of M106 contains only the inner structure around the halo and nucleus of this Seyfert II active galaxy. Large amounts of gas from the galaxy are thought to be falling into and fueling a supermassive black hole contained in the nucleus. Also looks like a rasenshuriken from Naruto.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 30,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Galactic Rasenshuriken"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "M106, NGC 4258"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Canes Venatici"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "23.5 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

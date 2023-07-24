@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #41",
+  "symbol": "GE",
+  "description": "A delicate sphere of gas, floats serenely in the depths of space. The pristine shell, or bubble, is the result of gas that is being shocked by the expanding blast wave from a supernova.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 41,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Supernova Bubble"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "SNR 0509"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Supernova Remnant"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "160.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

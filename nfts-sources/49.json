@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #49",
+  "symbol": "GE",
+  "description": "These stars make up the globular cluster Messier 79, located about 40.000 light years from Earth in the constellation of Lepus.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 49,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A snowstorm of stars"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Messier 79"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Globular Cluster"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Lepus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "40.000 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

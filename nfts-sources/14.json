@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #14",
+  "symbol": "GE",
+  "description": "This star forming region of ionised hydrogen gas is in the Large Magellanic Cloud, a small galaxy which neighbours the Milky Way. It is home to many extreme conditions including supernova remnants and the heaviest star ever found. The Tarantula Nebula is the most luminous nebula of its type in the local Universe.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 14,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Tarantula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 2060"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "170.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

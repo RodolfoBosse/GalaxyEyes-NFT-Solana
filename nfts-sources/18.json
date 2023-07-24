@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #18",
+  "symbol": "GE",
+  "description": "The Hubble telescope has captured an image of an unusual edge on galaxy, revealing remarkable details of its warped dusty disk and showing how colliding galaxies spawn the formation of new generations of stars.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 18,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Galaxy playing twister"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "ESO 510-G13"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Interacting Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Hydra"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "150 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

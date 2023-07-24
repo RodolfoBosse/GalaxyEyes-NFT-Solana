@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #105",
+  "symbol": "GE",
+  "description": "An orange glow radiates from the centre of NGC 1792, the heart of this stellar forge.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 105,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Stellar Forge"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 1792"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Columba"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "250 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

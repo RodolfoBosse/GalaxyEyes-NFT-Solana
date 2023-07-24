@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #20",
+  "symbol": "GE",
+  "description": "This image shows the Horsehead Nebula in infrared light, which has longer wavelengths than visible light and can pierce through the dusty material that usually obscures the nebulas inner regions.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 20,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "New infrared view of the Horsehead Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Bernard 33"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Orion"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "1.300 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

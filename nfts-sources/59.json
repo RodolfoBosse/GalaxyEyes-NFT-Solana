@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #59",
+  "symbol": "GE",
+  "description": "The brilliant tapestry of young stars flaring to life resemble a glittering fireworks display.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 59,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Westerlund 2"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Gum 29"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Cluster and Star-forming Region"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Carina"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "20.000 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

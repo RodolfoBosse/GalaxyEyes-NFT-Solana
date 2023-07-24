@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #132",
+  "symbol": "GE",
+  "description": "This new image of the Antennae Galaxies shows obvious signs of chaos. Clouds of gas are seen in bright pink and red, surrounding the bright flashes of blue star forming regions.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 132,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Antennae Galaxies Reloaded"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 4038, NGC 4039"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Interacting Galaxies"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Corvus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "65 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

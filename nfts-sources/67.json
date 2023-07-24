@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #67",
+  "symbol": "GE",
+  "description": "This image from the NASA/ESA Hubble Space Telescope shows the galaxy cluster MACS J0416. This is one of six galaxy clusters being studied by the Hubble Frontier Fields program, which together have produced the deepest images of gravitational lensing ever made.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 67,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Intracluster Light In MACS J0416"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "MACS J0416.1-2403"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Galaxy Cluster"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "4 billion light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

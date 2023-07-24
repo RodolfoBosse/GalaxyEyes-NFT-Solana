@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #37",
+  "symbol": "GE",
+  "description": "A beautiful shot of the Doradus constellation, this time with an Ultraviolet filter.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 37,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Doradus In Ultraviolet"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "30 Doradus"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Cluster of Stars"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "170.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

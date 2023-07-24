@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #128",
+  "symbol": "GE",
+  "description": "The graceful, winding arms of the majestic spiral galaxy M51 appear like a grand spiral staircase sweeping through space. They are actually long lanes of stars and gas laced with dust.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 128,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Whirlpool Galaxy"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Messier 51"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxies"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Canes Venatici"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "25 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

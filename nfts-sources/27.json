@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #27",
+  "symbol": "GE",
+  "description": "The picture is dominated by a large, approximately circular feature, which is part of the Keyhole Nebula, named in the 19th century by Sir John Herschel. This region, about 8000 light years from Earth, is located adjacent to the famous explosive variable star Eta Carinae, which lies just outside the field of view toward the upper right.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 27,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Light and shadow in the Carina Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 3372"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Carina"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "7.500 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

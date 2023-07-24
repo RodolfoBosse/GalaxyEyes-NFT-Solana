@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #72",
+  "symbol": "GE",
+  "description": "Mounded, luminous clouds of gas and dust glow in image of a Herbig-Haro object known as HH 45. Herbig-Haro objects are a rarely seen type of nebula that occurs when hot gas ejected by a newborn star collides with the gas and dust around it at hundreds of miles per second, creating bright shock waves.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 72,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Shock Wave of Colliding Gases in Running Man Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 1977, HH 45"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Orion"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "6.500 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #90",
+  "symbol": "GE",
+  "description": "This amazing looking galaxy lies up to 90 million light years away in the north circumpolar constellation Ursa Major.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 90,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Barred spiral galaxy NGC 6217"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 6217"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Barred Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Ursa Minor"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "90 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

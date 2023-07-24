@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #15",
+  "symbol": "GE",
+  "description": "The Eagle Nebula, also known as the Star Queen Nebula and the Spire, is a relatively young cluster of stars, but holds one of humanity’s most famous images of space: the Pillars of Creation.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 15,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Eagle and the Pillars"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Messier 16"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Serpens Cauda"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "7.000 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

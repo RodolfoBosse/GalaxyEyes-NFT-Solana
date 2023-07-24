@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #60",
+  "symbol": "GE",
+  "description": "This stunning spiral galaxy is Messier 100 in the constellation Coma Berenices, captured here by the NASA/ESA Hubble Space Telescope.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 60,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Stunning Shot of Messier 100"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Messier 100"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Coma Berenises"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "50 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

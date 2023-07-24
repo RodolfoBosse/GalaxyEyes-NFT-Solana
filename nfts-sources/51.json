@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #51",
+  "symbol": "GE",
+  "description": "With the help of ultraviolet light, astronomers have uncovered the glow of magnesium embedded in warm gas (shown in blue) in places they had not seen it before. The luminous magnesium resides in the space between the dusty bipolar bubbles and the outer shock-heated nitrogen-rich filaments (shown in red).",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 51,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ultraviolet Violence"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Eta Carinae"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Carina"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "7.500 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

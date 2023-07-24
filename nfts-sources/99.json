@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #99",
+  "symbol": "GE",
+  "description": "A clash among members of a famous galaxy quintet reveals an assortment of stars across a wide colour range, from young, blue stars to aging, red stars.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 99,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Galactic wreckage in Stephans Quintet"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 7049"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Elliptical Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Indus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "100 million light-yearss"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

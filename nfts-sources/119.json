@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #119",
+  "symbol": "GE",
+  "description": "The galaxy UGCA 193 is a galaxy in the constellation of Sextans (The Sextant). Looking rather like a waterfall, this galaxy appears to host many young stars, especially in its lower portion, creating a striking blue haze and the sense that the stars are falling.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 119,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A Waterfall of Stars"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "UGCA 193"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Sextans"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "4.3 million light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

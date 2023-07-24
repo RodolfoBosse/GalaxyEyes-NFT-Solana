@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #2",
+  "symbol": "GE",
+  "description": "The brightly glowing plumes seen in this image are reminiscent of an underwater scene, with turquoise tinted currents and nebulous strands reaching out into the surroundings.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Turquoise-tinted Plumes in the Large Magellanic Cloud"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "LMC"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Irregular Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "150.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

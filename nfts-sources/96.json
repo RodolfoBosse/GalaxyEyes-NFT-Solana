@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #96",
+  "symbol": "GE",
+  "description": "The star-forming region NGC 3603 - seen here in the latest Hubble Space Telescope image - contains one of the most impressive massive young star clusters in the Milky Way. Bathed in gas and dust the cluster formed in a huge rush of star formation thought to have occurred around a million years ago. The hot blue stars at the core are responsible for carving out a huge cavity in the gas seen to the right of the star cluster in NGC 3603s center.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 96,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Extreme star cluster bursts into life"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 3603"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Star Clusters"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Carina"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "20.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

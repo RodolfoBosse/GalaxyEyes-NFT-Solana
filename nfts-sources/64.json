@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #64",
+  "symbol": "GE",
+  "description": "Like dust bunnies that lurk in corners and under beds, surprisingly complex loops and blobs of cosmic dust lie hidden in the giant elliptical galaxy NGC 1316.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 64,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Hubble Spies Cosmic Dust Bunnies"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 1316"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Elliptical Galaxies"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Fornax"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "60 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

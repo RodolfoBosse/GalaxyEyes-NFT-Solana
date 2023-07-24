@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #136",
+  "symbol": "GE",
+  "description": "A collection of nearly 10 million stars in all, Omega Centauri is the largest of about 150 globular clusters in the Milky Way. It's big enough that stargazers can spot it by eye from the southern hemisphere or from low northern latitudes.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 136,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Core of Omega Centauri"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 5139"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Giant Stellar Swarm"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Centaurus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "16.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

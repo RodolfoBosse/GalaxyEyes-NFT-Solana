@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #9",
+  "symbol": "GE",
+  "description": "Resembling an opulent diamond tapestry, this image shows a glittering star cluster that contains a collection of some of the brightest stars seen in our Milky Way galaxy.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Dazzling Diamonds"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Trumpler 14"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Open Cluster "
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Carina"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "8.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

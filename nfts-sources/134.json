@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #134",
+  "symbol": "GE",
+  "description": "A hypnotizing vortex? A peek into a witchs cauldron? A giant space-spider web?",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 134,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "CW Leonis"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "CW Leonis"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Red giant carbon star"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "400 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

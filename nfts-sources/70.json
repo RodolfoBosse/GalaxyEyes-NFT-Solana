@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #70",
+  "symbol": "GE",
+  "description": "Resembling a diamond-encrusted bracelet, a ring of brilliant blue star clusters wraps around the yellowish nucleus of what was once a normal spiral galaxy.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 70,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ring of Brilliant Blue Star"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "AM 0644-741"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Lenticular Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Volans"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "300 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

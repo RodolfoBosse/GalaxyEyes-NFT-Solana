@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #23",
+  "symbol": "GE",
+  "description": "This new depicts bright, blue, newly formed stars that are blowing a cavity in thecenter of a star-forming region in the Small Magellanic Cloud.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 23,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Infant Stars In Nearby Galaxy"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 602, N90"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Cluster within Star-Forming Region"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Tucana"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "196.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

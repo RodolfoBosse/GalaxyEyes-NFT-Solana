@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #53",
+  "symbol": "GE",
+  "description": "This ground-based image offers a wide view of the entire Orion cloud complex, the closest major star-forming region to Earth.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 53,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Hops Sources in Orion"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Orion Nebula"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Orion"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "1.344 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

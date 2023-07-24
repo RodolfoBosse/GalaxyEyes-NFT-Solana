@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #129",
+  "symbol": "GE",
+  "description": "This NASA/ESA Hubble Space Telescope Picture of the Week features the galaxy NGC 6984, an elegant spiral galaxy in the constellation Indus roughly 200 million light years away from Earth.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 129,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Cosmic Fireworks"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Messier 51"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxies"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Canes Venatici"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "25 million light-yearss"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

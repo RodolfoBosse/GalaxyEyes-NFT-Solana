@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #95",
+  "symbol": "GE",
+  "description": "This image shows an irregular galaxy named IC 10, a member of the Local Group, a collectiongrouping of over 50 galaxies inwithin our cosmic neighbourhood that includes the Milky Way.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 95,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Spiral and Irregular"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "IC 10"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Irregular Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Cassiopeia"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "2 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

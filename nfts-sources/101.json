@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #101",
+  "symbol": "GE",
+  "description": "The Twin Jet Nebula is a striking example of a bipolar planetary nebula. Bipolar planetary nebulae are formed when the central object is not a single star, but a binary system.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 101,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Twin Jet Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "M2-9"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Planetary Nebula"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Ophiuchus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "4.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "GalaxyEyes #127",
+  "symbol": "GE",
+  "description": "The Small Magellanic Cloud (SMC) is one of the Milky Way's closest galactic neighbors. Even though it is a small dwarf galaxy, the SMC is so bright that it is visible to the unaided eye from the Southern Hemisphere and near the equator.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 127,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Taken Under The Wing Of The Small Magellanic Cloud"
+    },   {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 602, N90"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Small Magellanic Cloud"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Centaurus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "16.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

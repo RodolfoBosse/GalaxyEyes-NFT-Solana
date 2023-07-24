@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #85",
+  "symbol": "GE",
+  "description": "This image, taken in near infrared light, transforms the pillars of creation into eerie, wispy silhouettes, which are seen against a background of myriad stars.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 85,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A Near-Infrared View Of The Pillars Of Creation"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "M16, Eagle Nebula, NGC 6611"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Emission Nebula"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Serpens"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "6.500 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

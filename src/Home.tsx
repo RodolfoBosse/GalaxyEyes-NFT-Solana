@@ -4,6 +4,7 @@ import Countdown from "react-countdown";
 import { Button, CircularProgress, Snackbar } from "@material-ui/core";
 import Alert from "@material-ui/lab/Alert";
 
+
 import * as anchor from "@project-serum/anchor";
 
 import { LAMPORTS_PER_SOL } from "@solana/web3.js";
@@ -166,35 +167,36 @@ const Home = (props: HomeProps) => {
   ]);
 
   return (
-    <main>
-      {wallet && (
-        <p>Wallet {shortenAddress(wallet.publicKey.toBase58() || "")}</p>
-      )}
-
-      {wallet && <p>Balance: {(balance || 0).toLocaleString()} SOL</p>}
-
-      {wallet && <p>Total Available: {itemsAvailable}</p>}
-
-      {wallet && <p>Redeemed: {itemsRedeemed}</p>}
-
-      {wallet && <p>Remaining: {itemsRemaining}</p>}
-
-      <MintContainer>
+    <main className = "p-5">
+    <div className="flex flex-col justify-center items-center flex-1 space-y-3 mt-20">
+      
+      <MintContainer className="flex flex-col justify-center items-center flex-1 space-y-3 mt-20">
+      
+        <img
+          className="rounded-md shadow-lg justify-center border"
+          src={`/icon.png`}
+          height={250}
+          width={250}
+          alt="Galaxie" />    
+        <span 
+          className="text-blue-200 font-bold text-2xl cursor-default">
+          GET YOUR PERSONAL GALAXY NOW
+        </span>
         {!wallet ? (
           <ConnectButton>Connect Wallet</ConnectButton>
         ) : (
-          <MintButton
+          <MintButton className="px-4 py-2 mx-auto font-bold text-gray-200 transition-opacity rounded-lg hover:opacity-70 bg-gradient-to-br from-blue-600 via-blue-600 to-blue-600"
             disabled={isSoldOut || isMinting || !isActive}
             onClick={onMint}
             variant="contained"
           >
             {isSoldOut ? (
-              "SOLD OUT"
+              <p className="text-gray-200">WE ARE SOLD OUT</p>
             ) : isActive ? (
               isMinting ? (
                 <CircularProgress />
-              ) : (
-                "MINT"
+              ) : ( 
+                  <h1>MINT</h1>   
               )
             ) : (
               <Countdown
@@ -208,6 +210,19 @@ const Home = (props: HomeProps) => {
         )}
       </MintContainer>
 
+      {wallet && (
+        <p className="text-gray-200 font-bold text-lg cursor-default">Wallet: {shortenAddress(wallet.publicKey.toBase58() || "")}</p>
+      )}
+
+      {wallet && <p className="text-gray-200 font-bold text-lg cursor-default">Balance: {(balance || 0).toLocaleString()} SOL</p>}
+
+      {wallet && <p className="text-gray-200 font-bold text-lg cursor-default">Total Available: {itemsAvailable}</p>}
+
+      {wallet && <p className="text-gray-200 font-bold text-lg cursor-default">Redeemed: {itemsRedeemed}</p>}
+
+      {wallet && <p className="text-gray-200 font-bold text-lg cursor-default">Remaining: {itemsRemaining}</p>}
+
+
       <Snackbar
         open={alertState.open}
         autoHideDuration={6000}
@@ -220,6 +235,7 @@ const Home = (props: HomeProps) => {
           {alertState.message}
         </Alert>
       </Snackbar>
+    </div>
     </main>
   );
 };

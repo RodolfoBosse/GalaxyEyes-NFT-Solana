@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #78",
+  "symbol": "GE",
+  "description": "This Hubble image reveals the true shape of MyCn18 to be an hourglass with an intricate pattern of 'etchings' in its walls.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 78,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Hourglass Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "MyCn 18"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Planetary Nebula"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Musca"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "8.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

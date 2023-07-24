@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #122",
+  "symbol": "GE",
+  "description": "This magnifcent picture of the Southern Crab Nebula was selected as the Hubbles 29th anniversary. It is the remnant of a supernova explosion in the year 1054 and has been studied with all available astronomical techniques.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 122,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Crab of the Southern Sky"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Hen 2-104"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Centaurus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "7.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

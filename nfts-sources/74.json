@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #74",
+  "symbol": "GE",
+  "description": "These cosmic ribbons of gas have been left behind by a titanic stellar explosion called a supernova. DEM L249 is thought to be the remnant of a Type 1a supernova, the death of a white dwarf star.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 74,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Shredded Remains of a Cosmic Explosion"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "DEM L249"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Supernova Remains"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Mensa"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "163.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

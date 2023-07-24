@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #124",
+  "symbol": "GE",
+  "description": "This image shows the area around the Lagoon Nebula, otherwise known as Messier 8. This nebula is filled with intense winds from hot stars, churning funnels of gas, and energetic star formation, all embedded within an intricate haze of gas and pitch-dark dust.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 124,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Wide field view of the Lagoon Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Herschel 36"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Emission Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "4.500 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

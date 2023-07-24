@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #61",
+  "symbol": "GE",
+  "description": "The narrow galaxy elegantly curving around its spherical companion in this image is a fantastic example of a truly strange and very rare phenomenon.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 61,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Rings of Relativity"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "GAL-CLUS-022058s"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Gravitational Interference"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Fornax"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "456.600 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

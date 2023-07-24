@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #57",
+  "symbol": "GE",
+  "description": "Hubble Space Telescope captured this image of NGC 7049 in the constellation of Indus, in the southern sky. A family of globular clusters appears as glittering spots dusted around the galaxy halo.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 57,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Dramatically Backlit Dust Lanes in NGC 7049"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 7049"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Elliptical Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Indus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "100 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

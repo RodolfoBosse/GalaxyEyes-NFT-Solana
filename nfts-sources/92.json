@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #92",
+  "symbol": "GE",
+  "description": "Nestled amongst the vast clouds of star forming regions like this one lie potential clues about the formation of our own Solar System.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 92,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Through the Clouds"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "AFGL 5180"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Interacting Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "4.900 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

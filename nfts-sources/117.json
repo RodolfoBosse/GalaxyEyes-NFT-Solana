@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #117",
+  "symbol": "GE",
+  "description": "The star is called HBC 672, and the shadow feature was nicknamed the Bat Shadow because it resembles a pair of wings. The nickname turned out to be unexpectedly appropriate, because now those wings appear to be flapping!",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 117,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Bat Shadow"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "HBC 672"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Serpens"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "1.400 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

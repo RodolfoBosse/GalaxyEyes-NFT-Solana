@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #87",
+  "symbol": "GE",
+  "description": "This Hubble image gives the most detailed view of the entire Crab Nebula ever. The Crab is among the most interesting and well studied objects in astronomy.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 87,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Most detailed image of the Crab Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Messier 1, NGC 1952"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "6.500 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

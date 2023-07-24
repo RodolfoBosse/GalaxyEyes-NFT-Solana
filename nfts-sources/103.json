@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #103",
+  "symbol": "GE",
+  "description": "In vibrant contrast to the rich harvest of classic spiral and elliptical galaxies, there is a zoo of oddball galaxies littering the field. Some look like toothpicks; others like links on a bracelet. A few appear to be interacting.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 103,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Hubble sees Galaxies Galore"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Hubble Ultra Deep Field"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Galaxy Cluster"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Fornax"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "53 million of light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #33",
+  "symbol": "GE",
+  "description": "This image is one of the most photogenic examples of the many turbulent stellar nurseries the NASA/ESA Hubble Space Telescope has observed during its 30-year lifetime. The portrait features the giant nebula NGC 2014 and its neighbour NGC 2020 which together form part of a vast star-forming region in the Large Magellanic Cloud, a satellite galaxy of the Milky Way, approximately 163.000 light-years away.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 33,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Tapestry of Blazing Starbirth"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 2020 and NGC 2014"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae and Star-Forming Region"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "163.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #81",
+  "symbol": "GE",
+  "description": "A huge gathering of over 1000 galaxies, about 320 million light years away, all bound together by gravity.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 81,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Clusters within clusters"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Coma Cluster"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Clusters"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Coma Berenises"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "300 million light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

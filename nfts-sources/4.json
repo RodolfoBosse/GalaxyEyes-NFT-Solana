@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #4",
+  "symbol": "GE",
+  "description": "The Black Eye Galaxy, also called Sleeping Beauty Galaxy or Evil Eye Galaxy and designated Messier 64, M64, or NGC 4826. Is a relatively isolated spiral galaxy 17 million light-years away in the mildly northern constellation of Coma Berenices.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Black Eye"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 4826"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Barred Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Coma Berenices"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "17 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

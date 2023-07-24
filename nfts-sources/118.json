@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #118",
+  "symbol": "GE",
+  "description": "The image shows the central region of the Tarantula Nebula in the Large Magellanic Cloud. The young and dense star cluster R136 can be seen at the lower right of the image. This cluster contains hundreds of young, blue stars, among them the most massive stars detected in the universe so far.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 118,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Star Cluster R136"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "R136, NGC 2070-Star Cluster, Tarantula Nebula"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Star Cluster, Starburst Region"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "170.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

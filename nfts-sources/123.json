@@ -1,0 +1,50 @@
+{
+  "name": "GalaxyEyes #123",
+  "symbol": "GE",
+  "description": "Hubble drifts over Earth after its release on May 19, 2009 by the crew of the Space Shuttle Atlantis. The crew had performed all planned tasks over the course of five spacewalks, making the Servicing Mission 4 (SM4), the fifth astronaut visit to the Hubble Space Telescope, an unqualified success.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 123,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Hubbles Final Release Over Earth"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Hubble Telescope"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Telescope"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "547 kilometers"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

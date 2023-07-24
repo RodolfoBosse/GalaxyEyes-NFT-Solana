@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #113",
+  "symbol": "GE",
+  "description": "Image of the supernova remnant Cassiopeia A (Cas A) taken with the Hubble Space Telescope Advanced Camera for Surveys in March 2004.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 113,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Supernova Remnant Cassiopeia A"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Cassipopeia A"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Supernova Remnant"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Cassiopeia"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "10.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

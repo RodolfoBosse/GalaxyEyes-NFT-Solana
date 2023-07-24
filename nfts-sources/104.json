@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #104",
+  "symbol": "GE",
+  "description": "Several million young stars are vying for attention in this image of a raucous stellar breeding ground in 30 Doradus, located in the heart of the Tarantula Nebula.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 104,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Panoramic View Of a Turbulent Star Making Region"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "30 Doradus, NGC 2070"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Emission Nebula"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "170.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

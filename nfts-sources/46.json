@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #46",
+  "symbol": "GE",
+  "description": "This section of the outer shell of the famous supernova remnant is in a region known as NGC 6960 also know as The Witch Broom Nebula.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 46,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Revisiting the Veil Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 6960"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Supernova Remnant"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Cygnus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "2.100 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

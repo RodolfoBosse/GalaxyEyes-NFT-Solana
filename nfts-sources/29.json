@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #29",
+  "symbol": "GE",
+  "description": " These two nebulae reside in the Small Magellanic Cloud, a dwarf galaxy that is a satellite of our Milky Way galaxy. Intense radiation from the brilliant central stars is heating hydrogen in each of the nebulae, causing them to glow red.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 29,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "NGC 248 In The Small Magellanic Cloud"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 248, DEM S16, SMC N13"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Star-forming Nebula Cloud"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Tucana"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "197.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #100",
+  "symbol": "GE",
+  "description": "This image reveals an ancient, glimmering ball of stars called NGC 1466. It is a globular cluster, a gathering of stars all held together by gravity, that is slowly moving through space on the outskirts of the Large Magellanic Cloud, one of our closest galactic neighbors.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 100,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Globular Star Cluster NGC 1466"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 1466"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Globular Star Cluster"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Hydrus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "160.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

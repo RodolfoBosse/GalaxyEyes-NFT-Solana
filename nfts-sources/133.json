@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #133",
+  "symbol": "GE",
+  "description": "This image looks more like an abstract painting than a cosmic snapshot. The magnificent masterpiece shows the Orion nebula in an explosion of infrared, ultraviolet and visible-light colors.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 133,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A Colorful Masterpiece"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Orion Nebula, M42, NGC 1976, Trapezium"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Emission Nebula"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Orion"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "1.500 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

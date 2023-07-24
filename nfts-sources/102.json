@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #102",
+  "symbol": "GE",
+  "description": "This new multiwavelength image of the Crab Nebula combines X-ray light from the Chandra X-ray Observatory (in blue) with visible light from the Hubble Space Telescope (in yellow) and infrared light seen by the Spitzer Space Telescope (in red). This particular combination of light from across the electromagnetic spectrum highlights the nested structure of the pulsar wind nebula.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 102,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Multiwavelength View Of The Crab Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Messier 1, NGC 1952"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "6.500 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

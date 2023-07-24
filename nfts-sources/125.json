@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #125",
+  "symbol": "GE",
+  "description": "Gravitational lensing is one of the predictions of Albert Einstein's General Theory of Relativity. The mass contained within a galaxy is so immense that it can actually warp and bend the very fabric of its surroundings (known as spacetime), forcing the light to travel along curved paths. As a result, the image of a more distant galaxy appears distorted and amplified to an observer, as the light from it has been bent around the intervening galaxy.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 125,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A Green Cosmic Arc"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "SDSS J1156"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Cluster"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "8 billion light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

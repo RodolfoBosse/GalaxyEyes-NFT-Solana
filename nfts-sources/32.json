@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #32",
+  "symbol": "GE",
+  "description": "A rich galaxy cluster composed of thousands of individual galaxies. It sits about 2.1 billion light years from the Earth in the northern constellation of Draco.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 32,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A Cluster in the Distance"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Abell 2218"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Cluster"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Draco"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "2 billion light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

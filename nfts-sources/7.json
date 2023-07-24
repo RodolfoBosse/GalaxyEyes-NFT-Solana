@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #7",
+  "symbol": "GE",
+  "description": "A beautiful image of two colliding galaxies, the collision, which began more than 100 million years ago and is still occurring, has triggered the formation of millions of stars in clouds of dust and gas in the galaxies. The most massive of these young stars have already sped through their evolution in a few million years and exploded as supernovas.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A Galactic Spectacle"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 4038/4039"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Interacting Galaxies"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Corvus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "60 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

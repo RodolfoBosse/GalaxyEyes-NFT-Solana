@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #83",
+  "symbol": "GE",
+  "description": "Huge waves are sculpted in this two lobed nebula some 3000 light years away in the constellation of Sagittarius.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 83,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Red Spider Nebula"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 6537"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Planetary Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "6.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

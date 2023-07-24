@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #76",
+  "symbol": "GE",
+  "description": "NGC 7714 is a spiral galaxy 100 million light-years from Earth, a relatively close neighbour in cosmic terms.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 76,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A Spiral Neighbour"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 7714"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Interacting Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "100 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

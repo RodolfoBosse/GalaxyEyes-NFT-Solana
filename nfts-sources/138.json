@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #138",
+  "symbol": "GE",
+  "description": "This mosaic image of the magnificent starburst galaxy is the sharpest wide angle view ever obtained of Messier 82. It is a galaxy remarkable for its webs of shredded clouds and flame like plumes of glowing hydrogen blasting out from its central regions where young stars are being born 10 times faster than they are inside in our Milky Way Galaxy.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 138,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A magnificent Starburst"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Messier 82"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Galaxy Starburst"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Ursa Major"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "13 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

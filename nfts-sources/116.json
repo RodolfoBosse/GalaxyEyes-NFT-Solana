@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #116",
+  "symbol": "GE",
+  "description": "The image is a composite of separate exposures made by the WFC3 instrument on the Hubble Space Telescope. Five filters were used to sample broad and narrow wavelength ranges for the UVIS image.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 116,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Doradus In Infrared"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "30 Doradus, 30 Dor"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Dorado"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "170.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

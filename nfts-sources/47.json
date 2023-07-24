@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #47",
+  "symbol": "GE",
+  "description": "This atmospheric Picture of the Week,, shows a dark, gloomy scene in the constellation of Gemini.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 47,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "The Death of a Star"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 2371"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "4.300 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

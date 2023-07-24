@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #25",
+  "symbol": "GE",
+  "description": "Star formation is one of the most important processes in shaping the Universe; it plays a pivotal role in the evolution of galaxies and it is also in the earliest stages of star formation that planetary systems first appear.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 25,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Flocculent Spiral"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 2841"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Ursa Major"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "65 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

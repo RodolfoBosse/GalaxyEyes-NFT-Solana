@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #1",
+  "symbol": "GE",
+  "description": "This image shows the pillars as seen in visible light, capturing the multi coloured glow of gas clouds, wispy tendrils of dark cosmic dust, and the rust coloured elephants trunks of the nebulas famous pillars.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "New view of the Pillars of Creation"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "Messier 16"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Serpens Cauda"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "7.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #126",
+  "symbol": "GE",
+  "description": "One of the most dynamic and intricately detailed star-forming regions in space, located 210.000 light-years away in the Small Magellanic Cloud, a satellite galaxy of our Milky Way",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 126,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Young Stars Sculpt Gas with Powerful Outflows"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "N66, NGC 346"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae, Star Cluster"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Tucana"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "170.000 light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

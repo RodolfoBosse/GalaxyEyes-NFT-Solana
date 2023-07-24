@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #13",
+  "symbol": "GE",
+  "description": "These filamentary structures are cool despite being surrounded by gas that is around 55 million degrees Celsius hot. They are suspended in a magnetic field which maintains their structure and demonstrates how energy from the central black hole is transferred to the surrounding gas.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Magnetic Monster"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 1275"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Perseus"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "250 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

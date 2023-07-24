@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #21",
+  "symbol": "GE",
+  "description": "In the new Hubble image of the galaxy M74 we can also see a smattering of bright pink regions decorating the spiral arms.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 21,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "A Spiral in the Void"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "M 74"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Spiral Galaxy"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "25 million light-years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}

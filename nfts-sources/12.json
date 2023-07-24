@@ -1,0 +1,54 @@
+{
+  "name": "GalaxyEyes #12",
+  "symbol": "GE",
+  "description": "Enjoying a frozen treat on a hot summer day can leave a sticky mess as it melts in the Sun and deforms. In the cold vacuum of space, there is no edible ice cream, but there is radiation from massive stars that is carving away at cold molecular clouds, creating bizarre, fantasy-like structures.",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "galaxyeyes.io",
+  "edition": 12,
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Cosmic Ice Sculptures"
+    },
+    {
+      "trait_type": "Catalogue Name",
+      "value": "NGC 3372"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Nebulae"
+    },
+    {
+      "trait_type": "Constellation",
+      "value": "Carina"
+    },
+    {
+      "trait_type": "Distance",
+      "value": "7.500 light years"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2cR9aSJgrftWufpa1nm46A6UKS7E74bubZ9tcjhm2GGk",
+        "share": 60
+      },
+      {
+        "address": "BybWAakxr77KBJuzNqVP8ikCHqAUDqMGhVzrUgsdoxYT",
+        "share": 20
+      },
+      {
+        "address": "B1NEhoeoVx9pq6h6ngtJfZpg3EDZDR1S53wjAgvuVTyd",
+        "share": 20
+      }
+    ]
+  }
+}
